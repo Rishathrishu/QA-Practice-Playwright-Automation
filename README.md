@@ -77,7 +77,7 @@ The scripts are organized into categories for easy navigation and maintenance:
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NarendraCodeHub/QA-Practice-Playwright-Automation.git
+   git clone https://github.com/Rishathrishu/QA-Practice-Playwright-Automation.git
    ```
 2. Navigate to the project directory:
    ```bash
